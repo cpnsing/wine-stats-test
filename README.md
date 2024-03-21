@@ -6,4 +6,4 @@
 
    Welcome to my React.js project! Here's a lovely image:
 
-![Example Image](/wine-stats-test/public/images/wine_stats.png)
+![Example Image](images/wine_stats.png)
